@@ -14,9 +14,9 @@ Cite this paper:
 
 ######## Please note that all codes are based on [TensorFlow](https://www.tensorflow.org/) and [SKLearn](http://scikit-learn.org/stable/)
 ##Content:
-* How batch normalization improve performance of anchor vector                   **[exp1]()**
-* How anchor vectors in LeNet-5 for the MNIST dataset change during training     **[exp2]()**
-* How anchor vectors in AlexNet changes when going deeper                        **[exp3]()**
+* How batch normalization improve performance of anchor vector                   **[exp1](https://github.com/XinDongol/RECOS/tree/master/exp1)**
+* How anchor vectors in LeNet-5 for the MNIST dataset change during training     **[exp2](https://github.com/XinDongol/RECOS/tree/master/exp2)**
+* How anchor vectors in AlexNet changes when going deeper                        **[exp3](https://github.com/XinDongol/RECOS/tree/master/exp3)**
 
 
 
