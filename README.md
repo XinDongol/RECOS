@@ -21,7 +21,7 @@ Cite this paper:
 
 
 ###### If you have any question or input, please contact with me. 
-###### xindongemail@gmail.com    N1503521@e.ntu.edu.sg    
+###### xindongemail@gmail.com    N1503521A@e.ntu.edu.sg    
 
 ***
 Jan 02 2017  at Nanyang Technological University
