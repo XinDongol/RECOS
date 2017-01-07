@@ -1,7 +1,7 @@
 # RECOS
 ##### This is implement of extensive experiments for paper [Understanding Convolutional Neural Networks with A Mathematical Model](https://arxiv.org/pdf/1609.04112v2.pdf)
 
-Cite this paper:  
+***Cite this paper***:  
 @article{kuo2016understanding,   
   title={Understanding convolutional neural networks with a mathematical model},  
   author={Kuo, C-C Jay},  
