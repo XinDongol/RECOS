@@ -1,0 +1,19 @@
+
+The images used as backgrounds where taken from google's thumbnail images.
+
+
+To generate mnist_train_background_images.amat
+
+dig = load('mnist_train.amat');
+dig = [dig(:,1:784)*255 dig(:,785)];
+jpegs = { 'jpg/001.jpg', 'jpg/002.jpg', 'jpg/003.jpg', 'jpg/004.jpg' , 'jpg/005.jpg', 'jpg/006.jpg', 'jpg/007.jpg', 'jpg/008.jpg', 'jpg/009.jpg', 'jpg/010.jpg', 'jpg/011.jpg', 'jpg/012.jpg', 'jpg/013.jpg', 'jpg/014.jpg', 'jpg/015.jpg', 'jpg/016.jpg', 'jpg/017.jpg', 'jpg/018.jpg', 'jpg/019.jpg', 'jpg/020.jpg'};
+create_mnist_background_images('mnist_train_background_images.amat',50000, 28, 28,dig,jpegs,1000,1/255);
+
+
+
+To generate mnist_test_background_images.amat
+
+dig = load('mnist_test.amat');
+dig = [dig(:,1:784)*255 dig(:,785)];
+jpegs = { 'jpg/001.jpg', 'jpg/002.jpg', 'jpg/003.jpg', 'jpg/004.jpg' , 'jpg/005.jpg', 'jpg/006.jpg', 'jpg/007.jpg', 'jpg/008.jpg', 'jpg/009.jpg', 'jpg/010.jpg', 'jpg/011.jpg', 'jpg/012.jpg', 'jpg/013.jpg', 'jpg/014.jpg', 'jpg/015.jpg', 'jpg/016.jpg', 'jpg/017.jpg', 'jpg/018.jpg', 'jpg/019.jpg', 'jpg/020.jpg'};
+create_mnist_background_images('mnist_test_background_images.amat',50000, 28, 28,dig,jpegs,1000,1/255);
