@@ -16,8 +16,8 @@ Cite this paper:
 ##Content:
 * How batch normalization improve performance of anchor vector                   **[exp1](https://github.com/XinDongol/RECOS/tree/master/exp1)**
 * How anchor vectors in LeNet-5 for the MNIST dataset change during training     **[exp2](https://github.com/XinDongol/RECOS/tree/master/exp2)**
-* How anchor vectors in AlexNet changes when going deeper                        **[exp3](https://github.com/XinDongol/RECOS/tree/master/exp3)**
-
+* How anchor vectors in AlexNet changes when going deeper                        **[exp3](https://github.com/XinDongol/RECOS/tree/master/exp3)** 
+* Experiment in section (3.2)                                                    **[exp4](https://github.com/XinDongol/RECOS/tree/master/exp4)**                                                                                                     
 
 
 ###### If you have any question or input, please contact with me. 
