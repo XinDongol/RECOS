@@ -25,4 +25,4 @@
 
 ***
 Jan 02 2017  at Nanyang Technological University
-#####Simon X Dong
+@Simon X Dong
